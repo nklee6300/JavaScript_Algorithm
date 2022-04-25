@@ -9,5 +9,4 @@ process.stdin.on('data', data => {
         } 
     console.log(str) // 출력
     }
-
 });
