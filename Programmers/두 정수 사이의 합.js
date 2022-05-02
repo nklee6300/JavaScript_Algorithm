@@ -1,6 +1,6 @@
 function solution(a, b) {
     var answer = 0;
-    if(a<=b){
+    if(a<=b) {
       for(let i=a; i<=b; i++){
         answer = answer + i
       }    
